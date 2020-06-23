@@ -11,4 +11,4 @@ Radetzky March is a novel by Joseph Roth, written in 1932, describing the declin
 > and hurled the book upon the damp soil.
 > [[The Radetzky March]]
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Radetzky-von-radetz.jpg>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Radetzky-von-radetz.jpg">
