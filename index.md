@@ -6,3 +6,7 @@ Radetzky March is a novel by Joseph Roth, written in 1932, describing the declin
 * nobleman
 * reluctant
 * disgusted
+
+> 'It's a pack of lies!' shouted the captain
+> and hurled the book upon the damp soil.
+> [[The Radetzky March]]
